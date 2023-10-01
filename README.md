@@ -27,3 +27,7 @@ If you want to contact me, you can send me a message through:
     <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
 </div>
+
+---
+
+![Skill chart](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rgrmra)
