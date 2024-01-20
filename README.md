@@ -20,8 +20,8 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onen.png" width="85"/></a>
 <a href="https://github.com/rgrmra/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
-<a href="https://github.com/rgrmra/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
-<a href="https://github.com/rgrmra/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
+<a href="https://github.com/rgrmra/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
 <a href="https://github.com/rgrmra/born2beroot"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="85"/></a>
 
 [![42 Game](https://img.shields.io/badge/Game-profile-blue?style=for-the-badge&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/rde-mour)
@@ -43,13 +43,13 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 > These are the languages, tools and distros that I used and I am using in my specialization. Please know that I didn't mention them all, but only those that I have a special appreciation for!
     
 ![Static Badge](https://img.shields.io/badge/LANGS:-white?logoColor=black&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Clang-white.svg?&logo=C&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/C-white.svg?&logo=C&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Java-white?&logo=openjdk&logoColor=black&style=for-the-badge)<br>
 ![Static Badge](https://img.shields.io/badge/TOOLS:-white?logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Linux-white?logo=linux&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Git-white?logo=git&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Github-white?logo=github&logoColor=black&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Shell_Script-white.svg?&logo=gnu-bash&logoColor=black&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Bash-white.svg?&logo=gnu-bash&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Makefile-white.svg?&logo=monzo&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Vim-white?&logo=VIM&logoColor=black&style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Nvim-white?&logo=Neovim&logoColor=black&style=for-the-badge)
