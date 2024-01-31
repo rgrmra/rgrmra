@@ -23,6 +23,7 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 <a href="https://github.com/rgrmra/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
 <a href="https://github.com/rgrmra/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
 <a href="https://github.com/rgrmra/born2beroot"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/fdf"><img src="https://game.42sp.org.br/static/assets/achievements/fdfm.png" width="85"/></a>
 
 [![42 Game](https://img.shields.io/badge/Game-profile-blue?style=for-the-badge&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/rde-mour)
 
