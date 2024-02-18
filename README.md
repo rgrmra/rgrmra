@@ -18,12 +18,14 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 
 > These are the badges that I acquired in the 42sp game. Click on one of the badges to be redirected to the project directory.
 
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onen.png" width="85"/></a>
+<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="85"/></a>
 <a href="https://github.com/rgrmra/libft"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
 <a href="https://github.com/rgrmra/get_next_line"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
 <a href="https://github.com/rgrmra/ft_printf"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
 <a href="https://github.com/rgrmra/born2beroot"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="85"/></a>
 <a href="https://github.com/rgrmra/fdf"><img src="https://game.42sp.org.br/static/assets/achievements/fdfm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/pipex"><img src="https://game.42sp.org.br/static/assets/achievements/pipexm.png" width="85"/></a><br>
+<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" width="85"/></a>
 
 [![42 Game](https://img.shields.io/badge/Game-profile-blue?style=for-the-badge&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/rde-mour)
 
