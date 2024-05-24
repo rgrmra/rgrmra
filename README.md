@@ -27,6 +27,7 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 <a href="https://github.com/rgrmra/pipex#readme"><img src="https://game.42sp.org.br/static/assets/achievements/pipexm.png" width="85"/></a><br>
 <a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" width="85"/></a>
 <a href="https://github.com/rgrmra/push_swap#readme"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/minishell#readme"><img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="85"/></a>
 
 [![42 Game](https://img.shields.io/badge/Game-profile-blue?style=for-the-badge&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/rde-mour)
 
