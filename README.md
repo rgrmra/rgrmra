@@ -18,18 +18,16 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 
 > These are the badges that I acquired in the 42sp game. Click on one of the badges to be redirected to the project directory.
 
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" width="85"/></a>
-<a href="https://github.com/rgrmra/libft#readme"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" width="85"/></a>
-<a href="https://github.com/rgrmra/get_next_line#readme"><img src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" width="85"/></a>
-<a href="https://github.com/rgrmra/ft_printf#readme"><img src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" width="85"/></a>
-<a href="https://github.com/rgrmra/born2beroot#readme"><img src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" width="85"/></a>
-<a href="https://github.com/rgrmra/fdf#readme"><img src="https://game.42sp.org.br/static/assets/achievements/fdfm.png" width="85"/></a>
-<a href="https://github.com/rgrmra/pipex#readme"><img src="https://game.42sp.org.br/static/assets/achievements/pipexm.png" width="85"/></a><br>
-<a href="#"><img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" width="85"/></a>
-<a href="https://github.com/rgrmra/push_swap#readme"><img src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png" width="85"/></a>
-<a href="https://github.com/rgrmra/minishell#readme"><img src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" width="85"/></a>
-
-[![42 Game](https://img.shields.io/badge/Game-profile-blue?style=for-the-badge&logo=42&logoColor=white)](https://game.42sp.org.br/cadet/rde-mour)
+<a href="#"><img src="https://royalbox.com.br/42/badges/phase_onem.png" width="85"/></a>
+<a href="https://github.com/rgrmra/libft#readme"><img src="https://royalbox.com.br/42/badges/libftm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/get_next_line#readme"><img src="https://royalbox.com.br/42/badges/get_next_linem.png" width="85"/></a>
+<a href="https://github.com/rgrmra/ft_printf#readme"><img src="https://royalbox.com.br/42/badges/ft_printfm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/born2beroot#readme"><img src="https://royalbox.com.br/42/badges/born2berootm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/fdf#readme"><img src="https://royalbox.com.br/42/badges/fdfm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/pipex#readme"><img src="https://royalbox.com.br/42/badges/pipexm.png" width="85"/></a><br>
+<a href="#"><img src="https://royalbox.com.br/42/badges/phase_twon.png" width="85"/></a>
+<a href="https://github.com/rgrmra/push_swap#readme"><img src="https://royalbox.com.br/42/badges/push_swapm.png" width="85"/></a>
+<a href="https://github.com/rgrmra/minishell#readme"><img src="https://royalbox.com.br/42/badges/minishellm.png" width="86"/></a>
 
 ## Stats
 
