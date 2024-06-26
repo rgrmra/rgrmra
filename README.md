@@ -28,6 +28,7 @@ I'm learning and improving my abilities in coding and I'm studying Software Enge
 <a href="#"><img src="https://royalbox.com.br/42/badges/phase_twon.png" width="85"/></a>
 <a href="https://github.com/rgrmra/push_swap#readme"><img src="https://royalbox.com.br/42/badges/push_swapm.png" width="85"/></a>
 <a href="https://github.com/rgrmra/minishell#readme"><img src="https://royalbox.com.br/42/badges/minishellm.png" width="86"/></a>
+<a href="https://github.com/rgrmra/philosophers#readme"><img src="https://royalbox.com.br/42/badges/philosophersm.png" width="86"/></a>
 
 ## Stats
 
